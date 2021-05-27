@@ -1,0 +1,7 @@
+namespace add
+{
+    class ad
+    {
+        
+    }
+}
